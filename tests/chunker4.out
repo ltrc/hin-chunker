@@ -1,0 +1,38 @@
+<Sentence id="1">
+1	((	NP	
+1.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+	))		
+2	((	NP	
+2.1	uwwara	NNPC	<fs af='uwwara,n,m,sg,3,d,0,0'>|<fs af='uwwara,n,m,pl,3,d,0,0'>|<fs af='uwwara,n,m,sg,3,o,0,0'>
+2.2	praxeSa	NNP	<fs af='praxeSa,n,m,sg,3,d,0,0'>|<fs af='praxeSa,n,m,pl,3,d,0,0'>|<fs af='praxeSa,n,m,sg,3,o,0,0'>
+2.3	BI	RP	<fs af='BI,adv,,,,,,'>
+	))		
+3	((	JJP	
+3.1	SAmila	JJ	<fs af='SAmila,adj,any,any,,any,,'>
+	))		
+4	((	VGF	
+4.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+	))		
+5	((	NP	
+5.1	jahAM	PRP	<fs af='jahAz,adv,,,,,,'>
+5.2	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+	))		
+6	((	NP	
+6.1	sirPa	RP	<fs af='sirPa,adj,any,any,,any,,'>
+6.2	15	QC	<fs af='15,num,,,,,,'>
+6.3	jile	NN	<fs af='jilA,n,m,pl,3,d,0,0'>|<fs af='jilA,n,m,sg,3,o,0,0'>
+	))		
+7	((	NP	
+7.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+7.2	kAryakrama	NN	<fs af='kAryakrama,n,m,sg,3,d,0,0'>|<fs af='kAryakrama,n,m,pl,3,d,0,0'>|<fs af='kAryakrama,n,m,sg,3,o,0,0'>
+7.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+8	((	JJP	
+8.1	SAmila	JJ	<fs af='SAmila,adj,any,any,,any,,'>
+	))		
+9	((	VGF	
+9.1	hEM	VM	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+9.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

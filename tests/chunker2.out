@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	((	NP	
+1.1	pahale	NST	<fs af='pahale,adv,,,,,,'>|<fs af='pahale,avy,,,,,,'>|<fs af='pahale,psp,,,,,,'>|<fs af='pahalA,adj,m,sg,,o,,'>|<fs af='pahalA,adj,m,pl,,d,,'>|<fs af='pahalA,adj,m,pl,,o,,'>
+	))		
+2	((	NP	
+2.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+2.2	yojanA	NN	<fs af='yojanA,n,f,sg,3,d,0,0'>|<fs af='yojanA,n,f,sg,3,o,0,0'>
+2.3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+	))		
+3	((	NP	
+3.1	SuruAwa	NN	<fs af='SuruAwa,n,m,sg,3,d,0,0'>|<fs af='SuruAwa,n,m,pl,3,d,0,0'>|<fs af='SuruAwa,n,m,sg,3,o,0,0'>
+	))		
+4	((	NP	
+4.1	JAraKaMda	NNP	<fs af='JAraKaMda,unk,,,,,,'>
+4.2	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+	))		
+5	((	VGF	
+5.1	kI	VM	<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+5.2	jAnI	VAUX	<fs af='jAnI,adj,f,any,,any,,'>|<fs af='jAna,v,f,sg,any,,yA,yA'>|<fs af='jA,v,f,sg,any,,nA,nA'>
+5.3	WI	VAUX	<fs af='WA,v,f,sg,any,,WA,WA'>
+5.4	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

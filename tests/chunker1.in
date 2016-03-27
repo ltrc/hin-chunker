@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	aMwima	JJ	<fs af='aMwima,n,m,sg,3,d,0,0'>|<fs af='aMwima,n,m,pl,3,d,0,0'>|<fs af='aMwima,n,m,sg,3,o,0,0'>|<fs af='aMwima,n,m,pl,3,o,0,0'>
+2	vakwa	NN	<fs af='vakwa,n,m,sg,3,d,0,0'>|<fs af='vakwa,n,m,pl,3,d,0,0'>|<fs af='vakwa,n,m,sg,3,o,0,0'>|<fs af='vakwa,n,m,pl,3,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	kAryakrama	NN	<fs af='kAryakrama,n,m,sg,3,d,0,0'>|<fs af='kAryakrama,n,m,pl,3,d,0,0'>|<fs af='kAryakrama,n,m,sg,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	hue	VM	<fs af='ho,v,m,pl,any,,yA,yA'>
+7	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+8	Perabaxala	NN	<fs af='Perabaxala,unk,,,,,,'>
+9	ko	PSP	<fs af='ko,psp,,,,,,'>
+10	rAjanIwika	JJ	<fs af='rAjanIwika,adj,any,any,,any,,'>
+11	caSme	NN	<fs af='caSmA,n,m,pl,3,d,0,0'>|<fs af='caSmA,n,m,sg,3,o,0,0'>
+12	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+13	xeKA	VM	<fs af='xeKa,v,m,sg,any,,yA,yA'>
+14	jA	VAUX	<fs af='jA,v,any,any,any,,0,0'>
+15	rahA	VAUX	<fs af='raha,v,m,sg,any,,yA,yA'>
+16	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

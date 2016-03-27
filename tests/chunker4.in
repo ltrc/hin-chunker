@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+2	uwwara	NNPC	<fs af='uwwara,n,m,sg,3,d,0,0'>|<fs af='uwwara,n,m,pl,3,d,0,0'>|<fs af='uwwara,n,m,sg,3,o,0,0'>
+3	praxeSa	NNP	<fs af='praxeSa,n,m,sg,3,d,0,0'>|<fs af='praxeSa,n,m,pl,3,d,0,0'>|<fs af='praxeSa,n,m,sg,3,o,0,0'>
+4	BI	RP	<fs af='BI,adv,,,,,,'>
+5	SAmila	JJ	<fs af='SAmila,adj,any,any,,any,,'>
+6	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+7	jahAM	PRP	<fs af='jahAz,adv,,,,,,'>
+8	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+9	sirPa	RP	<fs af='sirPa,adj,any,any,,any,,'>
+10	15	QC	<fs af='15,num,,,,,,'>
+11	jile	NN	<fs af='jilA,n,m,pl,3,d,0,0'>|<fs af='jilA,n,m,sg,3,o,0,0'>
+12	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+13	kAryakrama	NN	<fs af='kAryakrama,n,m,sg,3,d,0,0'>|<fs af='kAryakrama,n,m,pl,3,d,0,0'>|<fs af='kAryakrama,n,m,sg,3,o,0,0'>
+14	meM	PSP	<fs af='meM,psp,,,,,,'>
+15	SAmila	JJ	<fs af='SAmila,adj,any,any,,any,,'>
+16	hEM	VM	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

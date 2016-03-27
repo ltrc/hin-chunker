@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	aba	PRP	<fs af='aba,adv,,,,,,'>
+2	wakarIbana	RP	<fs af='wakarIbana,unk,,,,,,'>
+3	yaha	PRP	<fs af='yaha,pn,any,sg,3,d,0,0'>
+4	waya	JJ	<fs af='waya,n,m,sg,3,d,0,0'>|<fs af='waya,n,m,pl,3,d,0,0'>|<fs af='waya,n,m,sg,3,o,0,0'>
+5	ho	VM	<fs af='ho,v,any,any,any,,0,0'>|<fs af='ho,v,any,sg,2,,eM,eM'>|<fs af='ho,v,any,sg,3,,eM,eM'>|<fs af='hE,v,any,pl,2,,hE,hE'>
+6	gayA	VAUX	<fs af='gayA,unk,,,,,,'>
+7	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+8	ki	CC	<fs af='ki,avy,,,,,,'>
+9	praXAnamaMwrI	NNP	<fs af='praXAnamaMwrI,n,m,sg,3,d,0,0'>|<fs af='praXAnamaMwrI,n,m,pl,3,d,0,0'>|<fs af='praXAnamaMwrI,n,m,sg,3,o,0,0'>
+10	14	NNPC	<fs af='14,num,,,,,,'>
+11	navaMbara	NNP	<fs af='navaMbara,n,m,sg,3,d,0,0'>|<fs af='navaMbara,n,m,pl,3,d,0,0'>|<fs af='navaMbara,n,m,sg,3,o,0,0'>|<fs af='navaMbara,n,m,pl,3,o,0,0'>
+12	ko	PSP	<fs af='ko,psp,,,,,,'>
+13	AMXra	NNPC	<fs af='AMXra,n,m,sg,3,d,0,0'>|<fs af='AMXra,n,m,pl,3,d,0,0'>|<fs af='AMXra,n,m,sg,3,o,0,0'>|<fs af='AMXra,n,m,pl,3,o,0,0'>
+14	praxeSa	NNP	<fs af='praxeSa,n,m,sg,3,d,0,0'>|<fs af='praxeSa,n,m,pl,3,d,0,0'>|<fs af='praxeSa,n,m,sg,3,o,0,0'>
+15	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+16	hI	RP	<fs af='hI,adv,,,,,,'>
+17	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+18	yojanA	NN	<fs af='yojanA,n,f,sg,3,d,0,0'>|<fs af='yojanA,n,f,sg,3,o,0,0'>
+19	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+20	SuruAwa	NN	<fs af='SuruAwa,n,m,sg,3,d,0,0'>|<fs af='SuruAwa,n,m,pl,3,d,0,0'>|<fs af='SuruAwa,n,m,sg,3,o,0,0'>
+21	kareMge	VM	<fs af='kara,v,m,pl,1,,gA,gA'>|<fs af='kara,v,m,pl,2h,,gA,gA'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,47 @@
+<Sentence id="1">
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	wakarIbana	RP	<fs af='wakarIbana,unk,,,,,,'>
+2.2	yaha	PRP	<fs af='yaha,pn,any,sg,3,d,0,0'>
+	))		
+3	((	JJP	
+3.1	waya	JJ	<fs af='waya,n,m,sg,3,d,0,0'>|<fs af='waya,n,m,pl,3,d,0,0'>|<fs af='waya,n,m,sg,3,o,0,0'>
+	))		
+4	((	VGF	
+4.1	ho	VM	<fs af='ho,v,any,any,any,,0,0'>|<fs af='ho,v,any,sg,2,,eM,eM'>|<fs af='ho,v,any,sg,3,,eM,eM'>|<fs af='hE,v,any,pl,2,,hE,hE'>
+4.2	gayA	VAUX	<fs af='gayA,unk,,,,,,'>
+4.3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+	))		
+5	((	CCP	
+5.1	ki	CC	<fs af='ki,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	praXAnamaMwrI	NNP	<fs af='praXAnamaMwrI,n,m,sg,3,d,0,0'>|<fs af='praXAnamaMwrI,n,m,pl,3,d,0,0'>|<fs af='praXAnamaMwrI,n,m,sg,3,o,0,0'>
+	))		
+7	((	NP	
+7.1	14	NNPC	<fs af='14,num,,,,,,'>
+7.2	navaMbara	NNP	<fs af='navaMbara,n,m,sg,3,d,0,0'>|<fs af='navaMbara,n,m,pl,3,d,0,0'>|<fs af='navaMbara,n,m,sg,3,o,0,0'>|<fs af='navaMbara,n,m,pl,3,o,0,0'>
+7.3	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+8	((	NP	
+8.1	AMXra	NNPC	<fs af='AMXra,n,m,sg,3,d,0,0'>|<fs af='AMXra,n,m,pl,3,d,0,0'>|<fs af='AMXra,n,m,sg,3,o,0,0'>|<fs af='AMXra,n,m,pl,3,o,0,0'>
+8.2	praxeSa	NNP	<fs af='praxeSa,n,m,sg,3,d,0,0'>|<fs af='praxeSa,n,m,pl,3,d,0,0'>|<fs af='praxeSa,n,m,sg,3,o,0,0'>
+8.3	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+8.4	hI	RP	<fs af='hI,adv,,,,,,'>
+	))		
+9	((	NP	
+9.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+9.2	yojanA	NN	<fs af='yojanA,n,f,sg,3,d,0,0'>|<fs af='yojanA,n,f,sg,3,o,0,0'>
+9.3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>|<fs af='kA,psp,f,sg,,o,kA,kA'>|<fs af='kA,psp,f,pl,,d,kA,kA'>|<fs af='kA,psp,f,pl,,o,kA,kA'>|<fs af='kara,v,f,sg,any,,yA,yA'>
+	))		
+10	((	NP	
+10.1	SuruAwa	NN	<fs af='SuruAwa,n,m,sg,3,d,0,0'>|<fs af='SuruAwa,n,m,pl,3,d,0,0'>|<fs af='SuruAwa,n,m,sg,3,o,0,0'>
+	))		
+11	((	VGF	
+11.1	kareMge	VM	<fs af='kara,v,m,pl,1,,gA,gA'>|<fs af='kara,v,m,pl,2h,,gA,gA'>
+11.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

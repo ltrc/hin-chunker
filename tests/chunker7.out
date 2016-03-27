@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	((	NP	
+1.1	Ese	DEM	<fs af='Ese,adv,,,,,,'>|<fs af='EsA,adj,m,sg,,o,,'>|<fs af='EsA,adj,m,pl,,d,,'>|<fs af='EsA,adj,m,pl,,o,,'>
+1.2	kaI	QF	<fs af='kaI,n,m,sg,3,d,0,0'>|<fs af='kaI,n,m,pl,3,d,0,0'>|<fs af='kaI,n,m,sg,3,o,0,0'>|<fs af='kaI,adj,any,any,,d,,'>
+1.3	rAjya	NN	<fs af='rAjya,n,m,sg,3,d,0,0'>|<fs af='rAjya,n,m,pl,3,d,0,0'>|<fs af='rAjya,n,m,sg,3,o,0,0'>
+	))		
+2	((	VGF	
+2.1	hEM	VM	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+	))		
+3	((	NP	
+3.1	jo	PRP	<fs af='jo,avy,,,,,,'>|<fs af='jo,pn,any,sg,3,d,0,0'>|<fs af='jo,pn,any,pl,3,d,0,0'>
+	))		
+4	((	NP	
+4.1	AMXra	NNPC	<fs af='AMXra,n,m,sg,3,d,0,0'>|<fs af='AMXra,n,m,pl,3,d,0,0'>|<fs af='AMXra,n,m,sg,3,o,0,0'>|<fs af='AMXra,n,m,pl,3,o,0,0'>
+4.2	praxeSa	NNP	<fs af='praxeSa,n,m,sg,3,d,0,0'>|<fs af='praxeSa,n,m,pl,3,d,0,0'>|<fs af='praxeSa,n,m,sg,3,o,0,0'>
+4.3	se	PSP	<fs af='se,v,any,any,any,,0,0'>|<fs af='se,psp,,,,,,'>|<fs af='sA,psp,m,sg,,o,kA,kA'>|<fs af='sA,psp,m,pl,,d,kA,kA'>|<fs af='sA,psp,m,pl,,o,kA,kA'>
+	))		
+5	((	JJP	
+5.1	jyAxA	QF	<fs af='jyAxA,adv,,,,,,'>|<fs af='jyAxA,adj,m,sg,,d,,'>
+5.2	piCadZe	JJ	<fs af='piCada,v,any,sg,2,,eM,eM'>|<fs af='piCada,v,any,sg,3,,eM,eM'>|<fs af='piCada,v,m,pl,any,,yA,yA'>
+	))		
+6	((	VGF	
+6.1	hEM	VM	<fs af='hE,v,any,pl,1,,hE,hE'>|<fs af='hE,v,any,pl,3,,hE,hE'>
+6.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

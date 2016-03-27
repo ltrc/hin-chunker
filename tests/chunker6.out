@@ -1,0 +1,36 @@
+<Sentence id="1">
+1	((	NP	
+1.1	xUsarA	QO	<fs af='xUsarA,n,m,sg,3,d,0,0'>
+1.2	vivAxa	NN	<fs af='vivAxa,n,m,sg,3,d,0,0'>|<fs af='vivAxa,n,m,pl,3,d,0,0'>|<fs af='vivAxa,n,m,sg,3,o,0,0'>
+	))		
+2	((	NP	
+2.1	una	DEM	<fs af='una,unk,,,,,,'>
+2.2	jiloM	NN	<fs af='jilA,n,m,pl,3,o,0,0'>
+2.3	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+3	((	VGNF	
+3.1	lekara	VM	<fs af='le,v,any,any,any,,kara,kara'>
+3.2	BI	RP	<fs af='BI,adv,,,,,,'>
+	))		
+4	((	VGF	
+4.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+	))		
+5	((	NP	
+5.1	jinheM	PRP	<fs af='jo,pn,any,pl,3,o,ko,ko'>
+	))		
+6	((	NP	
+6.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+6.2	yojanA	NN	<fs af='yojanA,n,f,sg,3,d,0,0'>|<fs af='yojanA,n,f,sg,3,o,0,0'>
+6.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+7	((	JJP	
+7.1	SAmila	JJ	<fs af='SAmila,adj,any,any,,any,,'>
+	))		
+8	((	VGF	
+8.1	kiyA	VM	<fs af='kara,v,m,sg,any,,yA,yA'>
+8.2	gayA	VAUX	<fs af='gayA,unk,,,,,,'>
+8.3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>|<fs af='hE,v,any,sg,3,,hE,hE'>
+8.4	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+
